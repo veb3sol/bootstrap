@@ -14,9 +14,7 @@
 .bg2{
   background-color: var(--color2);
 }
-h2 {
-  
-}
+
 header,
 footer,
 section {
@@ -108,4 +106,9 @@ footer {
   height: 3px;
   background-color: var(--color1);
   margin: 15px auto 30px;
+}
+/* Наш продукт для тех кто */
+.forwhom h5 {
+  padding: 50px;
+  border: 3px solid var(--color2);
 }
